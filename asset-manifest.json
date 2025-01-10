@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/assembly-endgame/static/css/main.2a36d1df.css",
-    "main.js": "/assembly-endgame/static/js/main.33ec83f4.js",
+    "main.js": "/assembly-endgame/static/js/main.eb84ef4c.js",
     "index.html": "/assembly-endgame/index.html",
     "main.2a36d1df.css.map": "/assembly-endgame/static/css/main.2a36d1df.css.map",
-    "main.33ec83f4.js.map": "/assembly-endgame/static/js/main.33ec83f4.js.map"
+    "main.eb84ef4c.js.map": "/assembly-endgame/static/js/main.eb84ef4c.js.map"
   },
   "entrypoints": [
     "static/css/main.2a36d1df.css",
-    "static/js/main.33ec83f4.js"
+    "static/js/main.eb84ef4c.js"
   ]
 }
