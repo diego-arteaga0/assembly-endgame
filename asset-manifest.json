@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assembly-endgame/static/css/main.2a36d1df.css",
+    "main.js": "/assembly-endgame/static/js/main.33ec83f4.js",
+    "index.html": "/assembly-endgame/index.html",
+    "main.2a36d1df.css.map": "/assembly-endgame/static/css/main.2a36d1df.css.map",
+    "main.33ec83f4.js.map": "/assembly-endgame/static/js/main.33ec83f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a36d1df.css",
+    "static/js/main.33ec83f4.js"
+  ]
+}
